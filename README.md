@@ -10,6 +10,10 @@ Autores: Arthur Avner Cabral Alves e Luis Filipe Mora</br>
 Orientador: Gustavo Guedes</br>
 Data da defesa: 27/10/2021</br>
 
+</br>
+O código fonte desta aplicação encontra-se em https://github.com/arthuravner/vita2
+</br>
+
 <h2 > Instalação </h2>
 
 <b > Configurando o banco de dados </b>
